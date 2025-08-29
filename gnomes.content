@@ -1,0 +1,35 @@
+<!-- content -->
+
+<h3>The Gnomes of the P &amp; S</h3>
+
+<br />
+<p>These six little fellows are to found in various places around the P
+&amp; S.  It takes a keen lookout to spot them all.</p>
+
+<br />
+<p><span style="font-weight:bold">WARNING</span>: They seem to move around on their own and may not be where
+you saw them last!</p>
+
+<br />
+<table>
+  <tr>
+    <td ><img width='100px' src='./img-orig/Caboose.jpg' alt='x' /></td>
+    <td><img width='100px' src='./img-orig/Harley.jpg' alt='x' /></td>
+    <td><img width='100px' src='./img-orig/Pops.jpg' alt='x' /></td>
+    <td><img width='100px' src='./img-orig/Roundhouse.jpg' alt='x' /></td>
+    <td><img width='100px' src='./img-orig/Smokestack.jpg' alt='x' /></td>
+    <td><img width='100px' src='./img-orig/Spike.jpg' alt='x' /></td>
+  </tr>
+  <tr>
+    <td class='center'>Caboose</td>
+    <td class='center'>Harley</td>
+    <td class='center'>Pops</td>
+    <td class='center'>Roundhouse</td>
+    <td class='center'>Smokestack</td>
+    <td class='center'>Spike</td>
+  </tr>
+</table>
+
+<br />
+<p>[Gnome photos and page idea by Neil Wright.]
+</p>
